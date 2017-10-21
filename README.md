@@ -1,5 +1,5 @@
 # ALU-4bit
-4 bits ALU coded in Verilog language.
+4 bit ALU coded in Verilog language.
 
 ## Prerequisites
 * `iverilog`
