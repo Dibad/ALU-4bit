@@ -3,7 +3,7 @@
 
 ## Prerequisites
 * `iverilog`
-* `cmake, make`
+* `make`
 * `gtkwave` (optional)
 
 ## Installing
